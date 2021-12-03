@@ -1,0 +1,403 @@
+{
+  "terminals": [
+    {
+      "terminalid": 1,
+      "blokkert": false,
+      "fullsatt": true,
+      "blokkerttid": "2021-12-03 13:10:31.323"
+    },
+    {
+      "terminalid": 11,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 07:29:38.903"
+    },
+    {
+      "terminalid": 21,
+      "blokkert": false,
+      "fullsatt": true,
+      "blokkerttid": "2021-12-03 11:48:14.127"
+    },
+    {
+      "terminalid": 31,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-01 16:20:39.42"
+    },
+    {
+      "terminalid": 41,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 09:37:27.333"
+    },
+    {
+      "terminalid": 51,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-01 15:34:34.437"
+    },
+    {
+      "terminalid": 61,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 15:01:20.917"
+    },
+    {
+      "terminalid": 71,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-01 13:53:01.94"
+    },
+    {
+      "terminalid": 2,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-11-26 18:44:00.833"
+    },
+    {
+      "terminalid": 12,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 08:55:56.393"
+    },
+    {
+      "terminalid": 22,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 15:37:34.327"
+    },
+    {
+      "terminalid": 32,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 14:06:30.373"
+    },
+    {
+      "terminalid": 42,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 08:17:39.947"
+    },
+    {
+      "terminalid": 52,
+      "blokkert": true,
+      "fullsatt": true,
+      "blokkerttid": "2021-12-03 16:06:50.767"
+    },
+    {
+      "terminalid": 62,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 14:56:02.63"
+    },
+    {
+      "terminalid": 72,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 15:15:57.92"
+    },
+    {
+      "terminalid": 14,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 08:18:19.493"
+    },
+    {
+      "terminalid": 24,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 13:04:53.233"
+    },
+    {
+      "terminalid": 7,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 07:59:00.173"
+    },
+    {
+      "terminalid": 17,
+      "blokkert": false,
+      "fullsatt": true,
+      "blokkerttid": "2021-12-03 15:44:52.79"
+    },
+    {
+      "terminalid": 27,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 12:34:06.49"
+    },
+    {
+      "terminalid": 92,
+      "blokkert": false,
+      "fullsatt": true,
+      "blokkerttid": "2021-11-30 06:57:21.217"
+    },
+    {
+      "terminalid": 93,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-11-19 07:09:31.18"
+    },
+    {
+      "terminalid": 94,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 06:38:56.0"
+    },
+    {
+      "terminalid": 81,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-11-23 14:10:16.487"
+    },
+    {
+      "terminalid": 86,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-02 11:12:14.793"
+    },
+    {
+      "terminalid": 87,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-02 12:47:12.687"
+    },
+    {
+      "terminalid": 3,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 15:30:31.147"
+    },
+    {
+      "terminalid": 16,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-11-25 19:33:10.527"
+    },
+    {
+      "terminalid": 82,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 13:47:47.683"
+    },
+    {
+      "terminalid": 95,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 15:08:39.203"
+    },
+    {
+      "terminalid": 96,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-02 15:25:16.55"
+    },
+    {
+      "terminalid": 99,
+      "blokkert": false,
+      "fullsatt": false,
+      "blokkerttid": "2021-12-03 15:32:09.937"
+    }
+  ],
+  "avfall": [
+    {
+      "terminalid": 1,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 2,
+      "rest": 0,
+      "max": 1
+    },
+    {
+      "terminalid": 3,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 7,
+      "rest": 0,
+      "max": 4
+    },
+    {
+      "terminalid": 11,
+      "rest": 0,
+      "max": 1
+    },
+    {
+      "terminalid": 12,
+      "rest": 0,
+      "max": 4
+    },
+    {
+      "terminalid": 14,
+      "rest": 3,
+      "max": 4
+    },
+    {
+      "terminalid": 16,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 17,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 21,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 22,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 24,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 27,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 31,
+      "rest": 0,
+      "max": 1
+    },
+    {
+      "terminalid": 32,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 37,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 41,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 42,
+      "rest": 0,
+      "max": 4
+    },
+    {
+      "terminalid": 51,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 52,
+      "rest": 1,
+      "max": 4
+    },
+    {
+      "terminalid": 61,
+      "rest": 1,
+      "max": 3
+    },
+    {
+      "terminalid": 62,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 71,
+      "rest": 1,
+      "max": 3
+    },
+    {
+      "terminalid": 72,
+      "rest": 0,
+      "max": 4
+    },
+    {
+      "terminalid": 81,
+      "rest": 0,
+      "max": 4
+    },
+    {
+      "terminalid": 82,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 83,
+      "rest": 0,
+      "max": 0
+    },
+    {
+      "terminalid": 84,
+      "rest": 0,
+      "max": 1
+    },
+    {
+      "terminalid": 85,
+      "rest": 0,
+      "max": 1
+    },
+    {
+      "terminalid": 86,
+      "rest": 0,
+      "max": 0
+    },
+    {
+      "terminalid": 87,
+      "rest": 0,
+      "max": 4
+    },
+    {
+      "terminalid": 88,
+      "rest": 0,
+      "max": 1
+    },
+    {
+      "terminalid": 92,
+      "rest": 1,
+      "max": 3
+    },
+    {
+      "terminalid": 93,
+      "rest": 0,
+      "max": 3
+    },
+    {
+      "terminalid": 94,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 95,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 96,
+      "rest": 0,
+      "max": 2
+    },
+    {
+      "terminalid": 99,
+      "rest": 0,
+      "max": 2
+    }
+  ],
+  "infocontainer": {
+    "infotext": "%3Cfont+color%3Dblue+face%3DSansSerif%3E%3C%21--Editable--%3E%3Cspan%3E2021-11-30+07%3A09%3A28%3C%2Fspan%3E%3A%3Cbr%2F%3EMottaksheis+for+terminal+16+er+ute+av+drift%2C+og+containere+omdirigeres+automatisk+til+terminal+12.",
+    "db1connstatus": true,
+    "db1conntime": "16:15:45",
+    "db2connstatus": true,
+    "db2conntime": "16:16:09",
+    "plcconnstatus": true,
+    "plcconntime": "16:16:09"
+  }
+}
